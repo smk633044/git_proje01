@@ -7,7 +7,7 @@ public class FirstClass {
 		System.out.println("ILk commit from local repository");
 		System.out.println("ikinci commit from local repository");
 		
-		
+		System.out.println("Yeni branch olusturdum ve adi feature");
 		
 		
 	}
